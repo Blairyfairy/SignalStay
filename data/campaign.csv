@@ -1,0 +1,8 @@
+keyword_cluster,match,format,clicks,spend_usd,bookings
+Brand reservations,Exact,Responsive,1800,420,54
+Premium suite booking,Phrase,Responsive,1250,310,35
+Downtown resort comparison,Phrase,Responsive,980,265,18
+Weekend lodging offers,Phrase,Text,810,220,12
+Free vacation giveaway,Broad,Text,390,96,0
+Hotel employment,Broad,Text,210,54,0
+City hotel guide,Broad,Responsive,1100,180,8
